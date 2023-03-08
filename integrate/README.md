@@ -11,4 +11,4 @@ You can generate the 3 configure files by "maker -CTL".
 Calculate the gene length, cds length, BUSCO, etc. of the annotation results.
 
 
-write by HuYong
+'write by HuYong'
