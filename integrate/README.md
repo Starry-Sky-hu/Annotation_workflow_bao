@@ -10,3 +10,5 @@ You can generate the 3 configure files by "maker -CTL".
 ### AnnotationResultsStat.sh
 Calculate the gene length, cds length, BUSCO, etc. of the annotation results.
 
+
+write by HuYong
